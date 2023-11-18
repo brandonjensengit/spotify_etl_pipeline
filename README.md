@@ -7,6 +7,8 @@ Spotify client secret has been rotated for privacy.
 
 ### Architecture
 
+![Architecture Diagram](https://github.com/brandonjensengit/spotify_etl_pipeline/assets/3952764/1b9283fd-5a72-4357-a8dd-97b1cd8a2cb2)
+
 ### About Dataset/API
 This [API](https://developer.spotify.com/documentation/) contains information about the top film score soundtracks and album information from Spotify.
 
